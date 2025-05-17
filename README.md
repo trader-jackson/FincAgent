@@ -1,4 +1,4 @@
-# FINCON: A Synthesized LLM Multi-Agent System for Enhanced Financial Decision Making
+# FINCON: A Synthesized LLM Multi-Agent System for Enhanced Financial Decision Making(Still Developing)
 
 This repository implements FINCON, an LLM-based multi-agent framework with Conceptual Verbal Reinforcement for diverse financial tasks, as described in the paper "FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making" (NeurIPS 2024).
 
